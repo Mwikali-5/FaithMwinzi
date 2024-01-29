@@ -41,8 +41,11 @@ solutions. Ensured that the customers were satisfied with the services provided
 at all times.
 
 # Projects
+## Credit Rating 
+Did a project to correctly classify the customers that were likely to default based on their credit score and offered recommendations based on my findings from the data provided.
+The link to the project is as provided: [Credit Rating](https://github.com/Mwikali-5/Credit-Rating)
 ## Churn
 Did a project to correctly classify the customers that were likely to churn and offered recommendations based on my findings.
-The link to the project as provided: [Churn](https://github.com/Mwikali-5/Churn)
+The link to the project is as provided: [Churn](https://github.com/Mwikali-5/Churn)
 
 

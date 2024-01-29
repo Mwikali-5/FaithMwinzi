@@ -1,1 +1,7 @@
-# FaithMwinzi
+# Faith Mwinzi
+
+### Profile
+
+### Schhol
+
+### Projects
